@@ -5,6 +5,7 @@
   {% seo title=false %}
 
   <title>
+
       {% if page.tag or page.title %}
         {% if page.tag %}
           {{ page.tag | escape }}
@@ -21,6 +22,9 @@
         - {{ site.description | escape }}
       {% endunless %}
     </title>
+    {% if page.mathjax %}
+  {% include mathjax.html %}
+{% endif %}
   
   <link rel="shortcut icon" href="{{ site.baseurl }}/profile1.png">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">

@@ -4,6 +4,7 @@ layout: post
 date: 2024-08-29
 permalink: /notes/calculus/single-variable
 tags: [Lecture Notes, Mathematics, Calculus]
+mathjax: true
 ---
 
 ## Introduction
@@ -24,7 +25,7 @@ In this course, we will embark on a journey through the fundamental concepts of 
 Let's dive in!
 
 ## Functions and models
-# Annotazioni  
-The fundamental objects that we deal with in calculus are functions.
-A function \(f\) is a rule that assigns to each element \(x\) in a set \(D\) exactly one element, called \(f(x)\), in a set \(E\).
-We usually consider functions for which the sets \(D\) and are sets \(E\) of real numbers. The set \(D\) is called the domain of the function. The number \(f(x)\) is the value of \(f\) at \(x\) and is read "\(f\) of \(x\)". ([Stewart, 2008, p. 11](zotero://select/library/items/DSRIMBQR)) ([pdf](zotero://open-pdf/library/items/UHZUUI3W?page=39&annotation=6BEVIGTQ))
+The fundamental objects that we deal with in calculus are functions.    
+> A function $f$ is a rule that assigns to each element $x$ in a set $D$ exactly one element, called $f(x)$, in a set $E$.   
+
+We usually consider functions for which the sets $D$ and are sets $E$ of real numbers. The set $D$ is called the domain of the function. The number $f(x)$ is the value of $f$ at $x$ and is read "$f$ of $x$". ([Stewart, 2008, p. 11](zotero://select/library/items/DSRIMBQR)) ([pdf](zotero://open-pdf/library/items/UHZUUI3W?page=39&annotation=6BEVIGTQ))
