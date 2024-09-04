@@ -7,3 +7,4 @@ tmp
 .git
 old
 _site
+Gemfile.lock
