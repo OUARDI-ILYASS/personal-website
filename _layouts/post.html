@@ -2,10 +2,16 @@
 layout: default
 ---
 
-<section class="post" style="max-width: 40rem;margin: auto;">
-  <div class="">
-    <a href="/articles">← All articles</a>
+<section class="post" style="max-width: 40rem;margin: auto;margin-top: -2rem;">
+  <div class="" style="justify-content: space-between;display:flex; margin-bottom: 1rem;">
+    {% if page.url contains 'post' %}
+    <a href="/articles" style="text-decoration: none;">← All articles</a> <span>{% include reading-time.html %}</span> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    {% else %}
+    <a href="/notes" style="text-decoration: none;">← List of notes</a> <span>{% include reading-time.html %}</span> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    {% endif %}
+    
     </div>
+    <hr>
   <h1 class="title">{{ page.title }}</h1>
   {{ content }}
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}

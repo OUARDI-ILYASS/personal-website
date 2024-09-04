@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap  
+  - jekyll-toc
 
 collections:
   pages:
@@ -41,10 +42,16 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:year/:month/:day/:name
   projects:
     output: true
     permalink: /:year/:month/:day/:slug
+  biographies:
+    output: true
+    permalink: /:collection/:name
+  notes:
+    output: true
+    permalink: /:collection/:name
   
 defaults:
   -

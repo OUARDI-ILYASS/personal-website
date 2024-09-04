@@ -3,16 +3,72 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="en" >
-  {% include head.html %}  
-  <body>
-    <main role="main">
-	    
-	    
-	    
-        {{ content }}
-        	    
-    </main>
-            
-  </body>
+<html lang="en">
+{% include head.html %}
+
+<body>
+  {% if page.toc%}
+  <div class="toc" id="table-of-contents">
+    <ul>
+      <li><b>Table of contents</b></li>
+    </ul>
+    {% toc %}
+  </div>
+  {% endif %}
+  
+  <main role="main">
+
+
+
+    {{ content }}
+
+  </main>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+      const tocLinks = document.querySelectorAll(".toc a");
+
+      const observer = new IntersectionObserver(entries => {
+        let activeEntry = null;
+
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            activeEntry = entry;
+          }
+        });
+
+        if (activeEntry) {
+          const id = activeEntry.target.getAttribute("id");
+          tocLinks.forEach(link => link.classList.remove("active"));
+          const tocLink = document.querySelector(`.toc a[href="#${id}"]`);
+          if (tocLink) tocLink.classList.add("active");
+        }
+
+        if (window.scrollY === 0) {
+          tocLinks.forEach(link => link.classList.remove("active"));
+          tocLinks[0].classList.add("active");
+        }
+      }, {
+        rootMargin: '-50% 0px -50% 0px',
+        threshold: 0
+      });
+
+      headings.forEach(heading => observer.observe(heading));
+
+      if (window.scrollY === 0) {
+        tocLinks[0].classList.add("active");
+      }
+
+      window.addEventListener("scroll", () => {
+        if (window.scrollY === 0) {
+          tocLinks.forEach(link => link.classList.remove("active"));
+          tocLinks[0].classList.add("active");
+        }
+      });
+    });
+
+
+  </script>
+</body>
+
 </html>

@@ -1,5 +1,29 @@
 [
   
+
+  
+    {
+
+      "title"    : "Mathematics&#39; Timeline",
+      "description" : "",
+      "url"      : "/posts/2024/09/math-timeline/",
+      "category" : "",
+      "tags"     : "Mathematics, Research",
+      "date"     : "2024-09-04 00:00:00 +0200"
+
+    } ,
+  
+    {
+
+      "title"    : "Hilbert, Godel, Turing: Computers &#39;R&#39; Us",
+      "description" : "",
+      "url"      : "/posts/2024/09/HilberGodelTuring/",
+      "category" : "",
+      "tags"     : "Summer School, BOOST24, Computer Science, Research, Innovation, ELICSIR",
+      "date"     : "2024-09-04 00:00:00 +0200"
+
+    } ,
+  
     {
 
       "title"    : "My exeperience at BOOST24",
@@ -7,6 +31,17 @@
       "url"      : "/posts/2024/08/boost24/",
       "category" : "",
       "tags"     : "Summer School, BOOST24, Computer Science, Research, Innovation, ELICSIR",
+      "date"     : "2024-08-29 00:00:00 +0200"
+
+    } ,
+  
+    {
+
+      "title"    : "Calculus",
+      "description" : "",
+      "url"      : "/notes/calculus/single-variable",
+      "category" : "",
+      "tags"     : "Lecture Notes, Mathematics, Calculus",
       "date"     : "2024-08-29 00:00:00 +0200"
 
     } 

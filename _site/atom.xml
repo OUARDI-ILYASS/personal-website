@@ -4,13 +4,85 @@
  <title>Ilyass Ouardi</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-09-04T03:22:25+02:00</updated>
+ <updated>2024-09-04T21:42:50+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Ilyass Ouardi</name>
    <email>ilyassouardi@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Mathematics&apos; Timeline</title>
+   <link href="http://localhost:4000/posts/2024/09/math-timeline/"/>
+   <updated>2024-09-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/posts/2024/09/mathTimeline</id>
+   <content type="html">&lt;h2 id=&quot;early-modern-period&quot;&gt;Early Modern Period&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;1642&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/biographies/newton&quot;&gt;Sir Isaac Newton&lt;/a&gt; was born.&lt;/li&gt;
+      &lt;li&gt;Galileo Galilei died.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1646&lt;/strong&gt; - &lt;a href=&quot;/biographies/leibniz&quot;&gt;Gottfried Wilhelm Leibniz&lt;/a&gt; was born.
+&lt;!-- - **1637** - [René Descartes](biographies/descartes.md) introduces the Cartesian coordinate system in *La Géométrie*. --&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;1664&lt;/strong&gt; - &lt;a href=&quot;/biographies/newton&quot;&gt;Sir Isaac Newton&lt;/a&gt; begins his work on &lt;a href=&quot;notes/calculus.md&quot;&gt;calculus&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hilbert, Godel, Turing: Computers &apos;R&apos; Us</title>
+   <link href="http://localhost:4000/posts/2024/09/HilberGodelTuring/"/>
+   <updated>2024-09-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/posts/2024/09/HilberGodelTuring</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This blog post serves as a summary of the inspiring Professor Alessandro Panconesi’s lecture presented at BOOST24.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a world where digital devices and algorithms shape almost every aspect of our lives, it’s easy to forget that the foundations of this technological revolution were laid by a few brilliant minds who lived long before the first computer was ever built. In a recent lecture titled “Hilbert, Gödel, Turing: Computers ‘R’ Us,” I was able explored the profound impact of three such thinkers—David Hilbert, Kurt Gödel, and Alan Turing—whose work not only transformed mathematics but also paved the way for the modern computer age.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-ambitious-vision-of-david-hilbert&quot;&gt;The Ambitious Vision of David Hilbert&lt;/h4&gt;
+
+&lt;p&gt;At the dawn of the 20th century, mathematician David Hilbert stood at the forefront of a grand project. He sought to formalize all of mathematics, believing that with the right set of axioms, every mathematical truth could be derived logically, and all mathematical problems could be solved. This was the essence of Hilbert’s Program: a quest for completeness and consistency in mathematics.&lt;/p&gt;
+
+&lt;p&gt;Hilbert’s vision reflected a broader cultural optimism in the power of human reason. However, this dream would soon be challenged by a young logician who would prove that not everything can be captured by formal systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hilbert.jpg/220px-Hilbert.jpg#center&quot; alt=&quot;Hilbert’s Problems&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Image: David Hilbert, a pioneer in the quest for mathematical completeness.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;gödels-incompleteness-theorems-a-shattering-blow&quot;&gt;Gödel’s Incompleteness Theorems: A Shattering Blow&lt;/h4&gt;
+
+&lt;p&gt;Enter Kurt Gödel, who in 1931 delivered a groundbreaking revelation that would forever change the landscape of mathematics. Gödel’s incompleteness theorems demonstrated that in any sufficiently powerful formal system, there are true statements that cannot be proven within the system. Furthermore, he showed that no formal system could prove its own consistency.&lt;/p&gt;
+
+&lt;p&gt;Gödel’s theorems dealt a severe blow to Hilbert’s Program. They introduced inherent limits to what could be achieved through formalization and brought a new level of uncertainty to mathematics. This revelation was not only a mathematical milestone but also a profound philosophical statement about the limits of human knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://images.aeonmedia.co/images/cbe24f46-9853-474f-a94c-7099963121f6/essay-gettyimages-53466661.jpg#center&quot; alt=&quot;Gödel&apos;s Incompleteness Theorems&quot; /&gt;
+&lt;em&gt;Image: Kurt Gödel, whose incompleteness theorems redefined the boundaries of mathematics.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;alan-turing-and-the-birth-of-the-turing-machine&quot;&gt;Alan Turing and the Birth of the Turing Machine&lt;/h4&gt;
+
+&lt;p&gt;While Gödel revealed the limitations of formal systems, Alan Turing took these ideas and transformed them into the concept of computation. In his 1936 paper, Turing introduced the Turing machine, an abstract mathematical model that could simulate the logic of any computer algorithm. This machine was not a physical device but a theoretical construct that defined what it means to compute.&lt;/p&gt;
+
+&lt;p&gt;Turing’s work didn’t stop there. He answered a key question posed by Hilbert, the Entscheidungsproblem, by proving that there is no general algorithmic method for solving all mathematical problems—there are problems that no machine can solve. This concept of undecidability marked the beginning of computer science as we know it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.indy100.com/media-library/picture.jpg?id=28116902&amp;amp;width=1245&amp;amp;height=700&amp;amp;quality=85&amp;amp;coordinates=118%2C0%2C118%2C0&quot; alt=&quot;Turing Machine Concept&quot; /&gt;
+&lt;em&gt;Image: A young Alan Turing, who would go on to define the concept of computation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cultural-and-philosophical-impact&quot;&gt;Cultural and Philosophical Impact&lt;/h4&gt;
+
+&lt;p&gt;Turing’s ideas have had a lasting impact not only on mathematics and computer science but also on culture and philosophy. His work on the Turing machine laid the groundwork for the digital revolution, and his exploration of artificial intelligence raised deep questions about the nature of intelligence, consciousness, and the human mind.&lt;/p&gt;
+
+&lt;p&gt;The Turing Test, introduced in 1950, challenged us to consider whether machines could think—an idea that continues to drive discussions in AI and cognitive science today. Moreover, Turing’s life and legacy have become cultural symbols, representing both the triumph of intellectual curiosity and the tragic consequences of societal prejudice.&lt;/p&gt;
+
+&lt;h4 id=&quot;conclusion-computers-r-us&quot;&gt;Conclusion: Computers ‘R’ Us&lt;/h4&gt;
+
+&lt;p&gt;The lecture concluded with a reflection on how the work of Hilbert, Gödel, and Turing connects us to the very essence of computation. Computers are not just machines; they are extensions of human thought and creativity. The phrase “Computers ‘R’ Us” encapsulates this reality, highlighting how deeply intertwined our identities have become with the technology we create.&lt;/p&gt;
+
+&lt;p&gt;As we continue to advance in the digital age, it’s crucial to remember the lessons of these great thinkers. Their work reminds us that while we can achieve remarkable things through computation, there will always be mysteries that elude us and ethical challenges that demand our attention. The story of computation is, at its heart, a story about humanity—about our quest to understand the world and ourselves.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>My exeperience at BOOST24</title>
@@ -25,7 +97,7 @@
 
 &lt;p&gt;The goal of the summer school is to provide both theoretical and practical understanding of emerging technologies through interactive lectures and inspiring talks.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-program-and-activities&quot;&gt;The Program and Activities&lt;/h2&gt;
+&lt;h3 id=&quot;the-program-and-activities&quot;&gt;The Program and Activities&lt;/h3&gt;
 
 &lt;p&gt;The program was intense and rich in content, with a combination of theoretical lectures and informal opportunities to chat with the professors. Here are some highlights from my experience (still work in progress):&lt;/p&gt;
 &lt;ul&gt;

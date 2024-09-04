@@ -204,6 +204,25 @@ main {
 	padding:1rem;
 }
 
+.toc{
+	z-index: 10;
+    position: sticky;
+    top: 15em;
+    height: 0px;
+	font-size: 90%;
+}
+
+.toc ul {
+    list-style: none;
+	
+}
+.toc a{
+	text-decoration: none;
+}
+
+.toc a.active {
+    font-weight: bold;
+}
 
 @media screen and (max-width: 45rem ) {
 header li {

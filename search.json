@@ -2,7 +2,9 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% assign everything = site.posts | concat: site.notes %}
+
+  {% for post in everything %}
     {
 
       "title"    : "{{ post.title | strip_html | escape }}",
