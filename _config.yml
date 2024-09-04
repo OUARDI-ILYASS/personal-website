@@ -1,0 +1,72 @@
+site: Ilyass Ouardi
+title: Ilyass Ouardi
+description: A blog
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  name: "Ilyass Ouardi"
+  avatar: "profile1.png"
+  bio: "CS M.S. student at Università degli Studi di Milano. Interested in theoretical computer science, mathematics, software engineering"
+  permalink: pretty
+  email: "ilyassouardi@gmail.com"
+  github: "OUARDI-ILYASS"
+  instagram: "_ilyassouardi_"
+  twitter: "@ouardi_ilyass"
+
+# url: https://kurt-rhee.github.io
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"

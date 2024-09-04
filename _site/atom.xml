@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ilyass Ouardi</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-09-04T03:22:25+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Ilyass Ouardi</name>
+   <email>ilyassouardi@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My exeperience at BOOST24</title>
+   <link href="http://localhost:4000/posts/2024/08/boost24/"/>
+   <updated>2024-08-29T00:00:00+02:00</updated>
+   <id>http://localhost:4000/posts/2024/08/BOOST24</id>
+   <content type="html">&lt;p&gt;Recently, I had the opportunity to participate in the Bologna Orthogonal Summer Term (BOOST 24), organized by ELICSIR. This experience was much more than just a summer course; it was a true immersion into the world of innovation and advanced research. In this post, I want to share some of my reflections and highlights from this incredible adventure.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-boost-24-summer-school&quot;&gt;What is BOOST 24 Summer School?&lt;/h2&gt;
+
+&lt;p&gt;BOOST 24 is an summer school that focuses on advanced topics such as artificial intelligence, machine learning, applied mathematics, and many other cutting-edge subjects. The program is designed for students eager to get inspired by listening and talking to experts on this topics.&lt;/p&gt;
+
+&lt;p&gt;The goal of the summer school is to provide both theoretical and practical understanding of emerging technologies through interactive lectures and inspiring talks.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-program-and-activities&quot;&gt;The Program and Activities&lt;/h2&gt;
+
+&lt;p&gt;The program was intense and rich in content, with a combination of theoretical lectures and informal opportunities to chat with the professors. Here are some highlights from my experience (still work in progress):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Alessandro Panconesi and the History of Computer Science:&lt;/strong&gt; Alessandro Panconesi’s lecture on the history of computer science was both enlightening and inspiring, providing a dive into the key events and figures that have shaped the field. His insights highlighted the importance of understanding and studing math to drive future innovation in technology. Figures like Turing, Godel and Hilbert are important to study and admire. Another important take from the professor’s talk is that “reaserch like sports is an activity done well when we are young”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keshav Pingali’s Lectures:&lt;/strong&gt; Keshav elegantly demonstrated how dataflow techniques can be used to explain complex algorithms like gradient descent, using an innovative concept called “Parametrized Programs”. This lecture inspired me to further explore both machine learning, programming languages and Keashav’s work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Zelal talk on AI and Medicine:&lt;/strong&gt; One of the most inspiring sessions was about the Medex startup, which is developing technologies based on deep learning and reinforcement learning to support doctors in the diagnostic process. The idea of combining AI and medicine made me think about the potential of these tools to transform the healthcare industry.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lorenzo Orecchia’s Lectures on Gradient Descent Algorithms:&lt;/strong&gt; Lorenzo explored how gradient descent algorithms can be used to solve graph problems more efficiently than traditional approaches. I appreciated his formal and precise approach and his ability to answer all questions with great clarity. I’m really looking foward to achieve his same mental clarity and maybe one day work with him.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- - **Abe Davis&apos;s Lectures:** Abe illustrated how deep learning can be used to fuse data from different sensors to create a cohesive and accurate representation of complex scenarios. This made me think about how such techniques could be applied in various fields, from security to medicine. --&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Valeria Cardellini on Elastic and Cloud Computing:&lt;/strong&gt; discussions with Valeria opened my eyes to the challenges and opportunities offered by cloud computing, especially from the service provider’s perspective. She made me realize how important it is to consider not only the technology but also the architecture and scalability of resources.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Özalp Babaoğlu on BSD Linux:&lt;/strong&gt; One of the greats. Was truly special listen to him talk about how his work on BSD linux came to be.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-human-experience-and-networking&quot;&gt;The Human Experience and Networking&lt;/h2&gt;
+
+&lt;p&gt;Beyond the technical learning, one of the most rewarding aspects of the summer school was the opportunity to meet and interact with people from all over the world. I had the pleasure of meeting some cool guys with whom I could discuss ideas and projects. These encounters allowed me to build meaningful relationships and offered me new perspectives on research and innovation.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-personal-reflections&quot;&gt;My Personal Reflections&lt;/h2&gt;
+
+&lt;p&gt;This experience enriched me not only academically but also personally. I particularly appreciated:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The Stimulating Environment:&lt;/strong&gt; Being surrounded by passionate and dedicated people motivated me to give my best. I realized that research is a path I want to pursue with determination, without limiting myself to a single field.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Access to Industry Experts:&lt;/strong&gt; Having the opportunity to learn directly from leaders and innovators was incredibly valuable. In particular, Keshav Pingali’s presentation inspired me to further explore the field of programming languages.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Combination of Theory and Practice:&lt;/strong&gt; The balance between theoretical lessons and practical workshops made learning more effective and engaging. It allowed me to immediately apply what I learned, making the learning process even more rewarding.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;future-projects-and-ideas&quot;&gt;Future Projects and Ideas&lt;/h2&gt;
+
+&lt;p&gt;The BOOST 24 experience also inspired me to develop several personal projects:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Studing Mathematics and Computer Science History:&lt;/strong&gt; I am thinking of creating a project that explore the history of mathematics and computer science. This project would allow me to delve deeper into these disciplines and share my discoveries with a wider audience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Experimenting with Neural Networks:&lt;/strong&gt; I would like to create a simple neural network that recognizes and classifies agricultural products from smartphone photos. This project could be a first step to further deepening my understanding of machine learning and an opportunity to expand my thesis web application.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Exploring AI in Medicine and Sports:&lt;/strong&gt; I am considering focusing on how deep learning can be applied in fields such as medicine and sports, two very different but equally fascinating areas.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- ## **Tips for Future Participants**
+
+If you are considering participating in the next edition of BOOST 24 summer school, here are some tips that might be useful:
+
+1. **Prepare in Advance:** Familiarize yourself with the topics and technologies that will be covered. Reading some books or articles before the start of the lectures can be very helpful.
+2. **Participate Actively:** Be proactive during the sessions and don&apos;t be afraid to ask questions. Interaction with lecturers and other students is key to getting the most out of this experience.
+3. **Network:** Use this opportunity to build relationships with your peers and lecturers. Networking can open doors to future collaborations and professional opportunities. --&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In conclusion, the BOOST 24 summer school was an extraordinary experience that I highly recommend to anyone interested in exploring new frontiers in computer science, mathematics, and machine learning. It is a unique opportunity to grow both professionally and personally, and I look forward to applying what I have learned to my future work.&lt;/p&gt;
+
+&lt;p&gt;I would like to extend my heartfelt thanks to Professor Alessandro Panconesi, Lorenzo Alvisi, Özalp Babaoğlu and Gianfranco Bilardi for organizing such beautiful experince. Their dedication and passion have made this experience truly unforgettable and have made me want to be more and more like them. I am deeply grateful for the knowledge and inspiration I gained during my time at the summer school.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading all the way through! If you have any questions about my experience or want to learn more about the summer school, feel free to reach out to me.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

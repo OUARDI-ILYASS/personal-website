@@ -1,0 +1,13 @@
+links:
+- title: About
+  url: /
+- title: Articles
+  url: /articles
+- title: Lecture Notes
+  url: /notes
+- title: Curriculum Vitae
+  url: /cv
+- title: Search
+  url: /search
+# - title: Rss
+#   url: /atom.xml
