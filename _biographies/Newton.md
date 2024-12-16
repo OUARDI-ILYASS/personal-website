@@ -3,8 +3,61 @@ title: "Sir Isaac Newton"
 layout: post
 collection: biographies
 ---
+Sir Isaac Newton stands as one of the most remarkable figures in the history of
+science and mathematics. Born in the 17th century, Newton's contributions
+revolutionized not only mathematics but also our understanding of physics,
+light, and motion. His works laid the foundation for many scientific
+advancements that followed.
 
-Sir Isaac Newton was a great mathematician
+### **The Development of Calculus**
+In the creative years of 1665 and 1666, during a retreat to his family estate
+amidst the Great Plague, Newton developed calculus—a mathematical breakthrough
+that would transform science. Known as the "method of fluxions and fluents," his
+approach to calculus provided tools for analyzing motion and change. Although
+Newton kept his findings a secret for much of his life, this work became a
+cornerstone of modern mathematics. His invention predated similar developments
+by Gottfried Wilhelm Leibniz, leading to one of the most famous disputes in the
+history of science regarding the priority of discovery.
+
+Calculus, as Newton envisioned it, allowed the calculation of infinitesimally
+small changes (differentials) and the summation of these changes across
+intervals (integrals), offering a systematic way to solve problems related to
+bodies in motion.
+
+### **Contributions to Optics and Light**
+Newton's interest in light and optics culminated in his publication *Opticks* 
+in 1704. Through years of independent experimentation, he concluded that light
+consists of particles and that white light is a mixture of distinct colors.
+Written in clear and authoritative language, *Opticks* was well received and had
+a profound impact on the scientific community both in England and abroad.
+Newton’s experiments with prisms and his theories on the nature of light
+demonstrated the breadth of his scientific curiosity and analytical prowess.
+
+### **The Principia and the Laws of Motion**
+Newton's *Philosophiæ Naturalis Principia Mathematica* (Principia), published in
+1687, is perhaps his most celebrated work. It introduced the three laws of
+motion and universal gravitation, providing a framework to describe and predict
+the motion of celestial bodies and terrestrial objects. These principles not
+only explained phenomena like planetary orbits but also unified the physics of
+the heavens and the Earth under a single theory.
+
+### **Later Years and Legacy**
+After leaving academia, Newton spent the final 30 years of his life in London,
+serving as a government administrator at the British Mint. During this time, he
+continued to refine his scientific ideas and published further works, including
+an appendix to *Opticks*, where he formally introduced his calculus methods to
+the world.
+
+The 17th century, during which Newton thrived, was marked by profound
+intellectual achievements across science and mathematics. Newton's
+contributions, however, stand apart as a singular achievement. As Bardi (2007)
+noted, “What emerged from these years is perhaps the greatest single body of
+knowledge any scientist has ever produced in such a short period.” Newton’s
+legacy, from his discoveries in calculus and optics to his formulation of the
+laws of motion, remains a testament to the power of human intellect and
+curiosity.
+
+<!-- Sir Isaac Newton was a great mathematician
 
 “One of the greatest intellectual legacies of the seventeenth cen­tury, calculus was developed first by Newton in his creative years of 1665 and 1666,when he was a young Cambridge University student on retreat in his country estate.” ([Bardi, 2007, p. v](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=4&annotation=3DCGWANB))
 
@@ -48,7 +101,6 @@ Sir Isaac Newton was a great mathematician
 “But Newton was the first to figure out a general system that enabled him to analyze these sorts of problems generally­ calculus or, as Newton called it, the method of fluxions and fluents.” ([Bardi, 2007, p. 9](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=16&annotation=6DBTIXSN))
 
 
-
 “Newton had suffered in quiet humiliation for years with the knowledge that he was first inventor of calculus, and he was a smoldering fire ready to be released into flames” ([Bardi, 2007, p. 10](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=17&annotation=9XZ7IHTB))
 
 “This was an interesting time in history, and the times in which the two had lived played a major role in the dispute that would eventually break out between them.” ([Bardi, 2007, p. 11](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=18&annotation=G6T77I83))
@@ -61,5 +113,5 @@ Sir Isaac Newton was a great mathematician
 
 “The nature of light and sound were discovered.The diameter of the Earth was estimated to within a few yards, and the speed of light was measured accurately. The orbits of planets and comets were tracked by telescopes and moons were discovered around Saturn and Jupiter.” ([Bardi, 2007, p. 12](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=19&annotation=D8LYVC8P))
 
-“The circulation of blood through the body was carefully charted, and microscopes led to the discovery of cells and a world of tiny organisms too small to be seen with the naked eye” ([Bardi, 2007, p. 12](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=19&annotation=7B7ZUC3Z))
+“The circulation of blood through the body was carefully charted, and microscopes led to the discovery of cells and a world of tiny organisms too small to be seen with the naked eye” ([Bardi, 2007, p. 12](zotero://select/library/items/QU4SUXGG)) ([pdf](zotero://open-pdf/library/items/942P6QRA?page=19&annotation=7B7ZUC3Z)) -->
 

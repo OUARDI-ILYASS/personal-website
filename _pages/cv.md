@@ -9,6 +9,7 @@ permalink: "/cv"
 * LAUREA IN INFORMATICA - (Classe L-31)  
   Università degli studi di Milano  
   2020 - 2024  
+  Final grade: 110/110 cum laude 
 * Diploma di Maturità - Perito Informatico   
   lstituto Tecnico Tecnologico "G. e M. Montani"   
   2015 - 2020   
